@@ -8,7 +8,7 @@ The Learning-Log project allows you to register your account and write down your
 ## How to start the project
   1.First clone this repository.
   ```
-  git clone
+  git clone https://github.com/xianhe-zhang/learning_log.git
   ```
   2.Set up the Django
   ```
