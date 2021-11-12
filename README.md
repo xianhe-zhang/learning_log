@@ -18,9 +18,19 @@ The Learning-Log project allows you to register your account and write down your
   ```
   python3 manage.py runserver
   ```
+    
 ## Demo 
-  1. 
-  2.  
-  3.  
-  4.  
-  5.  
+  1. Home page
+  <img src='https://github.com/xianhe-zhang/learning_log/blob/main/demo_img/home.png' width='60%' >   
+    
+  2. Registration page
+  <img src='https://github.com/xianhe-zhang/learning_log/blob/main/demo_img/registration.png' width='60%' >  
+    
+  3. Topics page  
+  <img src='https://github.com/xianhe-zhang/learning_log/blob/main/demo_img/topics.png' width='60%' >  
+  
+  4. Topic_detail page  
+  <img src='https://github.com/xianhe-zhang/learning_log/blob/main/demo_img/topic_detail.png' width='60%' >  
+  
+  5. New_entry page  
+  <img src='https://github.com/xianhe-zhang/learning_log/blob/main/demo_img/submit.png' width='60%' >  
